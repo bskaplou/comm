@@ -1,6 +1,6 @@
 require 'comm/version'
 require 'bunny'
-require 'yajl'
+require 'yajl-ruby'
 
 module Comm
   class Base
